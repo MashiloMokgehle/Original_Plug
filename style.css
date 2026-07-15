@@ -457,3 +457,19 @@ nav ul{
     line-height:1.8;
     font-size:17px;
 }
+.product-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.product-link:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+.product-link h3,
+.product-link p,
+.product-link .price {
+    text-decoration: none;
+}
